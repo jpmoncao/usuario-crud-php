@@ -32,20 +32,20 @@
         </div>
     </nav>
     <?php
-    include("config.php");
+    include("src/config.php");
 
     switch (@$_REQUEST['page']) {
         case 'cadastrar':
-            include('cadaster.php');
+            include('screens/cadaster.php');
             break;
         case 'listar':
-            include('listusers.php');
+            include('screens/listusers.php');
             break;
         case 'editar':
-            include('edituser.php');
+            include('screens/edituser.php');
             break;
         case 'salvar':
-            include('saveuser.php');
+            include('controller/saveuser.php');
             break;
         default:
             print '<h1>Bem vindo!</h1>';
