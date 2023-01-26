@@ -12,7 +12,7 @@
 
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
         <div class="container-fluid">
-            <a class="navbar-brand" href="#">Cadastro</a>
+            <a class="navbar-brand" href="?page=home">Cadastro</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -48,7 +48,7 @@
             include('controller/saveuser.php');
             break;
         default:
-            print '<h1>Bem vindo!</h1>';
+            include('screens/home.php');
             break;
     }
     ?>
