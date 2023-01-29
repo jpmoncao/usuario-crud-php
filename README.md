@@ -7,16 +7,16 @@ Meu primeiro projeto CRUD com PHP para fins educativos.
 ##
 
 <div id="demo">
-  ## 🚀Demo
+  <h1>🚀Demo</h1>
   
-  ![CRUD](demo.png)
+  <img src="demo.png"/>
 </div>
 
-
 <!-- <div id="executando">
-  ## ⏩Executando
+  <h1>⏩Executando</h1>
   
-  ```bash
+  <code>
+
     python -m venv venv
   
     venv/Scripts/Activate.ps1
@@ -26,73 +26,80 @@ Meu primeiro projeto CRUD com PHP para fins educativos.
     cd C:/Users/seu-user/pasta-do-arquivo/main.py
   
     python main.py
-  ```
-</div> -->
-    
-<!-- <div id="variaveis">
-  ## 🧮Variáveis de Ambiente
-  
-  Para rodar esse projeto, você vai precisar adicionar as seguintes variáveis de ambiente no seu .env
-  
-  `API_KEY`
-  
-  `ANOTHER_API_KEY`
+  </code>
 </div> -->
 
+<!-- <div id="variaveis">
+  <h1>🧮Variáveis de Ambiente</h1>
+  
+  <p>Para rodar esse projeto, você vai precisar adicionar as seguintes variáveis de ambiente no seu .env</p>
+  
+  <code>API_KEY</code>
+
+  <code>ANOTHER_API_KEY</code>
+</div> -->
 
 <div id="melhorias">
-  ## ✔️Melhorias
-  - CREATE: Validação dos dados, alerta toast para confirmar cadastro;
-  - READ: Barra de procura para dados;
-  - UPDATE: Confirmar alteração pela senha, alterar senha, alerta toast para confirmar alteração;
-  - DELETE: Modal personalizado de confirmação de exclusão.
+  <h1>✔️Melhorias</h1>
+  <ul>
+    <li>CREATE: Validação dos dados, alerta toast para confirmar cadastro;</li>
+    <li>READ: Barra de procura para dados;</li>
+    <li>UPDATE: Confirmar alteração pela senha, alterar senha, alerta toast para confirmar alteração;</li>
+    <li>DELETE: Modal personalizado de confirmação de exclusão.</li>
+  </ul>
 </div>
 
 <div id="stack">
-  ## 💻Stack utilizada
-  - **Front-end:** Bootstrap 5
-  - **Back-end:** PHP
-  - **Banco de dados:** MySQL
+  <h1>💻Stack utilizada</h1>
+  <li><em>Front-end:</em> Bootstrap 5</li>
+  <li><em>Back-end:</em> PHP</li>
+  <li><em>Banco de dados:</em> MySQL</li>
 </div>
 
 <div id="habilidades">
-## 🛠 Habilidades
-- PHP
-  - Requisição
-  - Formulários
-  - Páginação
-  - CRUD
-  - Conexão com BD
-  - Básico da lógica
-</div>
- 
-<div id="sobre">
-  ## 🚹 Sobre mim
-  Eu sou João Pedro Monção, tenho 16 anos e atualmente estou cursando técnico em Informática. Estou estudando desenvolvimento web! Espero que curta o projeto deste repositório e aproveite para conferir meu perfil...
+  <h1>🛠 Habilidades</h1>
+  <ul>PHP
+    <li>Requisição</li>
+    <li>Formulários</li>
+    <li>Páginação</li>
+    <li>CRUD</li>
+    <li>Conexão com BD</li>
+    <li>Básico da lógica</li>
+  </ul>
 </div>
 
+<div id="sobre">
+  <h1>🚹 Sobre mim</h1>
+  <p>Eu sou João Pedro Monção, tenho 16 anos e atualmente estou cursando técnico em Informática. Estou estudando desenvolvimento web! Espero que curta o projeto deste repositório e aproveite para conferir meu perfil...</p>
+</div>
 
 <div id="links">
-  ## 🔗 Links
-  [![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jpmoncao.netlify.app)
-  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jpmoncao/)
-  [![github](https://img.shields.io/badge/github-1DA1F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jpmoncao)
+  <h1>🔗 Links</h1>
+  <a href="https://jpmoncao.netlify.app">
+    <img src="https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/jpmoncao/">
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/jpmoncao">
+    <img src="https://img.shields.io/badge/github-1DA1F2?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
-
 
 <div id="suporte">
-  ## 📞Suporte
+  <h1>📞Suporte</h1>
   
-  Para suporte, mande um email para pedrohjoao44@gmail.com
-  
-  ##
+  <p>Para suporte, mande um email para pedrohjoao44@gmail.com</p>
 </div>
+  
+##
+
 
 <p align="center">Índice</p>
 <p align="center">
   <a href="demo">🚀Demo, </a>
-  <a href="executando">⏩Executando, </a>
-  <a href="variaveis">🧮Variáveis de Ambiente, </a>
+  <!-- <a href="executando">⏩Executando, </a> -->
+  <!-- <a href="variaveis">🧮Variáveis de Ambiente, </a> -->
   <a href="melhorias">✔️Melhorias, </a>
   <a href="stack">💻Stack utilizada, </a>
   <a href="habilidades">🛠 Habilidades, </a>
@@ -105,6 +112,5 @@ Meu primeiro projeto CRUD com PHP para fins educativos.
 ##
 
 <p align="center">🚧Projeto finalizado - aberto a melhoras🚧</p>
-
 
 <!-- MUDAR ÍNDICE -->
