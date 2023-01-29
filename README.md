@@ -98,8 +98,8 @@ Meu primeiro projeto CRUD com PHP para fins educativos.
 <p align="center">Índice</p>
 <p align="center">
   <a href="#demo">🚀Demo, </a>
-  <!-- <a href="#executando">⏩Executando, </a> -->
-  <!-- <a href="#variaveis">🧮Variáveis de Ambiente, </a> -->
+  <a href="#executando">⏩Executando, </a>
+  <a href="#variaveis">🧮Variáveis de Ambiente, </a>
   <a href="#melhorias">✔️Melhorias, </a>
   <a href="#stack">💻Stack utilizada, </a>
   <a href="#habilidades">🛠 Habilidades, </a>
